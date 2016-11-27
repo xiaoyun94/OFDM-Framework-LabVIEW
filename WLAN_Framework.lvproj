@@ -32,6 +32,7 @@
 			<Item Name="OFDM_Modulation.vi" Type="VI" URL="../OFDM_Modulation.vi"/>
 			<Item Name="OFDM_SymbolMaping.vi" Type="VI" URL="../OFDM_SymbolMaping.vi"/>
 			<Item Name="OFDM_TransimitPreparation.vi" Type="VI" URL="../OFDM_TransimitPreparation.vi"/>
+			<Item Name="OFDM_FrequencyOffsetEstimation(CP).vi" Type="VI" URL="../OFDM_FrequencyOffsetEstimation(CP).vi"/>
 		</Item>
 		<Item Name="Test" Type="Folder">
 			<Item Name="BCC_TEST.vi" Type="VI" URL="../BCC_TEST.vi"/>
@@ -49,8 +50,9 @@
 			<Item Name="WLAN_FrameBuild.vi" Type="VI" URL="../WLAN_FrameBuild.vi"/>
 			<Item Name="WLAN_FrameCapture.vi" Type="VI" URL="../WLAN_FrameCapture.vi"/>
 			<Item Name="WLAN_FrameContent.vi" Type="VI" URL="../WLAN_FrameContent.vi"/>
-			<Item Name="WLAN_FrameDetect.vi" Type="VI" URL="../WLAN_FrameDetect.vi"/>
-			<Item Name="WLAN_FrequencyOffsetEstimation.vi" Type="VI" URL="../WLAN_FrequencyOffsetEstimation.vi"/>
+			<Item Name="WLAN_FrameSync.vi" Type="VI" URL="../WLAN_FrameSync.vi"/>
+			<Item Name="WLAN_FrequencyOffsetEstimation(LTF).vi" Type="VI" URL="../WLAN_FrequencyOffsetEstimation(LTF).vi"/>
+			<Item Name="WLAN_FrequencyOffsetEstimation(STF).vi" Type="VI" URL="../WLAN_FrequencyOffsetEstimation(STF).vi"/>
 			<Item Name="WLAN_LTF.vi" Type="VI" URL="../WLAN_LTF.vi"/>
 			<Item Name="WLAN_Scrambler.vi" Type="VI" URL="../WLAN_Scrambler.vi"/>
 			<Item Name="WLAN_SendOnce.vi" Type="VI" URL="../WLAN_SendOnce.vi"/>
